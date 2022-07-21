@@ -1,4 +1,4 @@
-export const development = {
+module.exports = {
     foo: 'dev-foo',
     bar: {
         one: 'dev-bar-one',

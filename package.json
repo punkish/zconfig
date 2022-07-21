@@ -1,6 +1,6 @@
 {
   "name": "@punkish/zconfig",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "a zimple config utility",
   "main": "index.js",
   "scripts": {
